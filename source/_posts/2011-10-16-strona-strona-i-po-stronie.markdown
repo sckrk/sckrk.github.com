@@ -13,7 +13,7 @@ Od dzisiaj nasza strona będzie hostowana przy wykorzystaniu [GitHub Pages][ghpa
 
 Dzięki temu, że cała treść nowej strony znajduje się w rozproszonym systemie kontroli wersji Git, będziemy mogli od teraz spać spokojnie, bez obaw o utratę większej ilości danych.
 
-W ciągu najbliższych dni postaramy się przywrócić jak najwięcej ze starej zawartości strony.
+W ciągu najbliższych dni postaramy się przywrócić jak najwięcej ze starej zawartości strony, a tymczasem zamieszczamy tylko najistotniejsze informacje.
 
 Dziękujemy za wyrozumiałość:)
 
