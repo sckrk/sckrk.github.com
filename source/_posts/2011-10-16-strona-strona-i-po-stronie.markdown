@@ -7,15 +7,17 @@ categories: Inne
 ---
 
 Jak pewnie zauważyliście, strona SCKRK zmieniła layout, tracąc przy okazji całą dotychczasową zawartość.
-Może kogoś z Was to zdziwiło, dlatego śpieszymy z wyjaśnieniem: serwer [RootNode][1], na którym było hostowane [sckrk.com][4] uległ awarii, a my pozostaliśmy bez kopii zapasowej strony.
+Może kogoś z Was to zdziwiło, dlatego śpieszymy z wyjaśnieniem: serwer [RootNode][rootnode], na którym było hostowane [sckrk.com][sckrk] uległ awarii, a my pozostaliśmy bez kopii zapasowej strony.
 
-Od dzisiaj nasza strona będzie hostowana przy wykorzystaniu [GitHub Pages][2] i silnika [Octopress][3].
+Od dzisiaj nasza strona będzie hostowana przy wykorzystaniu [GitHub Pages][ghpages] i silnika [Octopress][octopress].
 
 Dzięki temu, że cała treść nowej strony znajduje się w rozproszonym systemie kontroli wersji Git, będziemy mogli od teraz spać spokojnie, bez obaw o utratę większej ilości danych.
 
+W ciągu najbliższych dni postaramy się przywrócić jak najwięcej ze starej zawartości strony.
+
 Dziękujemy za wyrozumiałość:)
 
-[1]: http://rootnode.net/
-[2]: http://pages.github.com/
-[3]: http://octopress.org/
-[4]: http://sckrk.com/
+[rootnode]: http://rootnode.net/
+[ghpages]: http://pages.github.com/
+[octopress]: http://octopress.org/
+[sckrk]: http://sckrk.com/
