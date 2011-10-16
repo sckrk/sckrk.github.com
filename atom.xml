@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[[sckrk]]]></title>
+  <link href="http://sckrk.com/atom.xml" rel="self"/>
+  <link href="http://sckrk.com/"/>
+  <updated>2011-10-16T19:49:11+02:00</updated>
+  <id>http://sckrk.com/</id>
+  <author>
+    <name><![CDATA[Adam Pohorecki]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Sotkanie Nr 11 - Can Programming Be Liberated From The Von Neumann Style?]]></title>
+    <link href="http://sckrk.com/blog/2011/10/16/sotkanie-nr-11-can-programming-be-liberated-from-the-von-neumann-style/"/>
+    <updated>2011-10-16T18:52:00+02:00</updated>
+    <id>http://sckrk.com/blog/2011/10/16/sotkanie-nr-11-can-programming-be-liberated-from-the-von-neumann-style</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>19.10.2011 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy Warszauera 10 na Kazimierzu.
+Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
+
+<p><strong>Do przeczytania na spotkanie</strong> jest <a href="https://spreadsheets.google.com/viewanalytics?formkey=dE5kZVJkTEU4cFlzUnE2NDNyRVgzS2c6MQ">wybrany przez Was</a> artykuł autorstwa Johna Backus&#8217;a <a href="http://www.stanford.edu/class/cs242/readings/backus.pdf">&#8220;Can Programming Be Liberated from the von Neumann Style?&#8221;</a> (pdf).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Strona, strona i po stronie]]></title>
+    <link href="http://sckrk.com/blog/2011/10/16/strona-strona-i-po-stronie/"/>
+    <updated>2011-10-16T18:16:00+02:00</updated>
+    <id>http://sckrk.com/blog/2011/10/16/strona-strona-i-po-stronie</id>
+    <content type="html"><![CDATA[<p>Jak pewnie zauważyliście, strona SCKRK zmieniła layout, tracąc przy okazji całą dotychczasową zawartość.
+Może kogoś z Was to zdziwiło, dlatego śpieszymy z wyjaśnieniem: serwer <a href="http://rootnode.net/">RootNode</a>, na którym było hostowane <a href="http://sckrk.com/">sckrk.com</a> uległ awarii, a my pozostaliśmy bez kopii zapasowej strony.</p>
+
+<p>Od dzisiaj nasza strona będzie hostowana przy wykorzystaniu <a href="http://pages.github.com/">GitHub Pages</a> i silnika <a href="http://octopress.org/">Octopress</a>.</p>
+
+<p>Dzięki temu, że cała treść nowej strony znajduje się w rozproszonym systemie kontroli wersji Git, będziemy mogli od teraz spać spokojnie, bez obaw o utratę większej ilości danych.</p>
+
+<p>W ciągu najbliższych dni postaramy się przywrócić jak najwięcej ze starej zawartości strony.</p>
+
+<p>Dziękujemy za wyrozumiałość:)</p>
+]]></content>
+  </entry>
+  
+</feed>
