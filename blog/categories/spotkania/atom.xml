@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Spotkania | [sckrk]]]></title>
   <link href="http://sckrk.com/blog/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://sckrk.com/"/>
-  <updated>2011-10-23T02:16:57+02:00</updated>
+  <updated>2011-11-03T12:21:55+01:00</updated>
   <id>http://sckrk.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 12 - A Note on Distributed Computing]]></title>
+    <link href="http://sckrk.com/blog/2011/11/03/spotkanie-nr-12-a-note-on-distributed-computing/"/>
+    <updated>2011-11-03T12:12:00+01:00</updated>
+    <id>http://sckrk.com/blog/2011/11/03/spotkanie-nr-12-a-note-on-distributed-computing</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>09.11.2011 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy Warszauera 10 na Kazimierzu.
+Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
+
+<p><strong>Do przeczytania na spotkanie</strong> jest kolejny artykuł z cyklu <a href="http://blog.objectmentor.com/articles/2009/02/26/10-papers-every-programmer-should-read-at-least-twice">dziesięciu, które każdy programista przeczytać powinien (co najmniej dwa razy)</a>: <a href="http://ftp.isu.edu.tw/pub/Unix/Desktop/KDE/devel/smli_tr-94-29.pdf">A Note on Distributed Computing</a> (pdf).</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie Nr 11 - Can Programming Be Liberated From The Von Neumann Style?]]></title>

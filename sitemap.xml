@@ -2,20 +2,26 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://sckrk.com/blog/2011/10/16/strona-strona-i-po-stronie/</loc>
-        <lastmod>2011-10-16T20:49:28+02:00</lastmod>
+        <lastmod>2011-11-03T11:23:21+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://sckrk.com/blog/2011/10/16/spotkanie-nr-11-can-programming-be-liberated-from-the-von-neumann-style/
         </loc>
-        <lastmod>2011-10-16T20:38:06+02:00</lastmod>
+        <lastmod>2011-11-03T11:23:21+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://sckrk.com/blog/2011/11/03/spotkanie-nr-12-a-note-on-distributed-computing/
+        </loc>
+        <lastmod>2011-11-03T12:21:14+01:00</lastmod>
     </url>
     <url>
         <loc>http://sckrk.com/</loc>
-        <lastmod>2011-10-16T20:49:28+02:00</lastmod>
+        <lastmod>2011-11-03T12:21:14+01:00</lastmod>
     </url>
     <url>
         <loc>http://sckrk.com/blog/archives/</loc>
-        <lastmod>2011-10-16T20:49:28+02:00</lastmod>
+        <lastmod>2011-11-03T12:21:14+01:00</lastmod>
     </url>
 </urlset>
