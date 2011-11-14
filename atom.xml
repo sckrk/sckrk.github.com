@@ -4,7 +4,7 @@
   <title><![CDATA[[sckrk]]]></title>
   <link href="http://sckrk.com/atom.xml" rel="self"/>
   <link href="http://sckrk.com/"/>
-  <updated>2011-11-03T12:21:55+01:00</updated>
+  <updated>2011-11-14T09:39:42+01:00</updated>
   <id>http://sckrk.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Global Day of Code Retreat]]></title>
+    <link href="http://sckrk.com/blog/2011/11/14/global-day-of-code-retreat/"/>
+    <updated>2011-11-14T09:28:00+01:00</updated>
+    <id>http://sckrk.com/blog/2011/11/14/global-day-of-code-retreat</id>
+    <content type="html"><![CDATA[<p>We would like to invite everyone to a Code Retreat, which will take place in Cracow on the <strong>3rd of December 2011</strong> as a part of <a href="http://coderetreat.com/global_day.html">Global Day of Code Retreat</a>.</p>
+
+<p>You can find all of the details on the event site: <a href="http://coderetreat.sckrk.com">coderetreat.sckrk.com</a></p>
+
+<p><a href="http://coderetreatkrakow.eventbrite.com/">Event registration</a> will open <strong>14th November, 7pm CET</strong>. Admission is free, but the seating is limited, so be sure to sign up fast if you are interested in coming.</p>
+
+<p>The Code Retreat would not be possible without the help of our generous sponsors: <a href="http://www.abb.pl">ABB</a>, <a href="http://applicake.com">Applicake</a> and <a href="http://lunarlogicpolska.com">Lunar Logic Polska</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie Nr 12 - A Note on Distributed Computing]]></title>
