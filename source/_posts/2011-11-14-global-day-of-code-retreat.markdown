@@ -12,4 +12,4 @@ You can find all of the details on the event site: [coderetreat.sckrk.com](http:
 
 [Event registration](http://coderetreatkrakow.eventbrite.com/) will open **14th November, 7pm CET**. Admission is free, but the seating is limited, so be sure to sign up fast if you are interested in coming.
 
-The Code Retreat would not be possible without the help of our generous sponsors: [ABB](http://www.abb.pl), [Applicake](http://applicake.com) and [Lunar Logic Polska](http://lunarlogicpolska.com).
+The Code Retreat would not be possible without the help of our generous sponsors: [ABB](http://www.abb.pl/isdeliverycenter), [Applicake](http://applicake.com) [Future Simple](http://futuresimple.com), [Kanbanery](http://kanbanery.com) and [Lunar Logic Polska](http://lunarlogicpolska.com).
