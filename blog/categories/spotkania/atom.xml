@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Spotkania | [sckrk]]]></title>
   <link href="http://sckrk.com/blog/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://sckrk.com/"/>
-  <updated>2011-11-14T09:39:42+01:00</updated>
+  <updated>2012-01-09T13:52:46+01:00</updated>
   <id>http://sckrk.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
@@ -12,6 +12,65 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 15 - The Next 700 Programming Languages]]></title>
+    <link href="http://sckrk.com/blog/2012/01/09/spotkanie-nr-15-the-next-700-programming-languages/"/>
+    <updated>2012-01-09T14:44:00+01:00</updated>
+    <id>http://sckrk.com/blog/2012/01/09/spotkanie-nr-15-the-next-700-programming-languages</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>18.01.2012 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy <strong>Dominikańskiej</strong> 10, niedaleko Placu Wszystkich Świętych.
+Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
+
+<p><strong>Do przeczytania na spotkanie</strong> jest kolejny artykuł z cyklu <a href="http://blog.objectmentor.com/articles/2009/02/26/10-papers-every-programmer-should-read-at-least-twice">dziesięciu, które każdy programista przeczytać powinien (co najmniej dwa razy)</a>: <a href="http://www.thecorememory.com/Next_700.pdf">The Next 700 Programming Languages</a> autorstwa <a href="http://en.wikipedia.org/wiki/Peter_Landin">Petera Landina</a> (pdf).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 14 - Working Effectively with Legacy Code]]></title>
+    <link href="http://sckrk.com/blog/2012/01/02/spotkanie-nr-14-working-effectively-with-legacy-code/"/>
+    <updated>2012-01-02T22:29:00+01:00</updated>
+    <id>http://sckrk.com/blog/2012/01/02/spotkanie-nr-14-working-effectively-with-legacy-code</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>04.01.2012 o godzinie 19:00</strong> w zmienionej lokalizacji - w <a href="http://beergallery.pl/">Beer Gallery Pub</a> na ulicy <strong>Dominikańskiej 10</strong>, niedaleko Placu Wszystkich Świętych.
+Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
+
+<p><strong>Do przeczytania na spotkanie</strong> jest tym razem <a href="http://www.objectmentor.com/resources/articles/WorkingEffectivelyWithLegacyCode.pdf">artykuł autorstwa Michael'a Feathers'a "Working Effectively with Legacy Code"</a>. (pdf)</p>
+
+<p>Ponadto, dla chętnych proponujemy następujące materiały dodatkowe:</p>
+
+<ul>
+<li><a href="http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052">Książka Michael'a Feathers'a o tym samym tytule</a></li>
+<li><a href="http://codebetter.com/jeremymiller/2006/05/04/lessons-learned-for-dealing-with-legacy-code/">Lessons Learned from Dealing with Legacy Code</a></li>
+<li><a href="http://osherove.com/blog/2009/8/18/ndc-video-michael-feathers-working-effectively-with-legacy-c.html">Nagranie z NDC 2009</a></li>
+<li><a href="http://www.hanselman.com/blog/HanselminutesPodcast165WorkingEffectivelyWithLegacyCodeWithMichaelFeathers.aspx">Podcast Hanselminutes</a></li>
+<li><a href="http://www.infoq.com/articles/Dealing-with-legacy-code">Dealing with Legacy Code</a></li>
+</ul>
+
+
+<p><strong>Ważne:</strong></p>
+
+<p>Pamiętajcie o zmienionej lokalizacji spotkania - tym razem spotykamy się na Dominikańskiej 10. Mapka poniżej:</p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Dominika%C5%84ska+10,+Krak%C3%B3w,+Polska&amp;aq=0&amp;sll=50.02441,19.983585&amp;sspn=0.194764,0.528374&amp;vpsrc=6&amp;ie=UTF8&amp;hq=&amp;hnear=Dominika%C5%84ska+10,+Krak%C3%B3w,+ma%C5%82opolskie,+Poland&amp;ll=50.059038,19.93943&amp;spn=0.003041,0.008256&amp;t=h&amp;z=14&amp;output=embed"></iframe>
+
+
+<br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Dominika%C5%84ska+10,+Krak%C3%B3w,+Polska&amp;aq=0&amp;sll=50.02441,19.983585&amp;sspn=0.194764,0.528374&amp;vpsrc=6&amp;ie=UTF8&amp;hq=&amp;hnear=Dominika%C5%84ska+10,+Krak%C3%B3w,+ma%C5%82opolskie,+Poland&amp;ll=50.059038,19.93943&amp;spn=0.003041,0.008256&amp;t=h&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 13 - A Laboratory for Teaching Object-Oriented Thinking]]></title>
+    <link href="http://sckrk.com/blog/2011/12/07/spotkanie-nr-13-a-laboratory-for-teaching-object-oriented-thinking/"/>
+    <updated>2011-12-07T21:44:00+01:00</updated>
+    <id>http://sckrk.com/blog/2011/12/07/spotkanie-nr-13-a-laboratory-for-teaching-object-oriented-thinking</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>14.12.2011 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy Warszauera 10 na Kazimierzu.
+Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
+
+<p><strong>Do przeczytania na spotkanie</strong> jest kolejny artykuł z cyklu <a href="http://blog.objectmentor.com/articles/2009/02/26/10-papers-every-programmer-should-read-at-least-twice">dziesięciu, które każdy programista przeczytać powinien (co najmniej dwa razy)</a>: <a href="/downloads/lab_for_teaching_oo.pdf">A Laboratory for Teaching Object-Oriented Thinking</a> autorstwa <a href="http://en.wikipedia.org/wiki/Kent_Beck">Kenta Becka</a> (pdf).</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie Nr 12 - A Note on Distributed Computing]]></title>
