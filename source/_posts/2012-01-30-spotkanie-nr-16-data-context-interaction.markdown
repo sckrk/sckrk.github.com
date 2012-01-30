@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spotkanie Nr 16 - Data Context Interaction"
+title: "Spotkanie Nr 16 - Data, Context, Interaction"
 date: 2012-01-30 13:30
 comments: true
 categories: Spotkania
