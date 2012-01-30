@@ -6,7 +6,7 @@ comments: true
 categories: Spotkania
 ---
 
-Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia **08.02.2012 o godzinie 19:00** w [Beer Gallery Pub][beerg] przy ulicy **Dominikańskiej** 10, niedaleko Placu Wszystkich Świętych.
+Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia **08.02.2012 o godzinie 19:00** w [Beer Gallery Pub][beerg] przy ulicy **Dominikańskiej** 3, niedaleko Placu Wszystkich Świętych.
 Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę [Lunar Logic Polska][llp].
 
 **Do przeczytania na spotkanie** jest [artykuł wprowadzający wzorzec Data, Context and Interaction][dci].
@@ -17,7 +17,7 @@ Ponadto, dla chętnych proponujemy następujące materiały dodatkowe:
 * Prezentacja wideo: ["The DCI Architecture: Supporting the Agile Agenda" Jamesa Copliena na Oredev][oredev_video]
 * Prezentacja wideo: [The DCI Architecture: Lean and Agile at the Code Level][dci_infoq_video]
 * Artykuł na InfoQ: [Data, Context and Interaction: A New Architectural Approach][dci_infoq]
-* [Blog Andrzeja Szczerby][andrzej_on_software]
+* [Blog Andrzeja Krzywdy][andrzej_on_software]
 
 Oczywiście w internecie jest dużo więcej ciekawych materiałów o DCI, więc jeżeli znajdziecie coś ciekawego, to podzielcie się swoim odkryciem w komentarzach.
 
