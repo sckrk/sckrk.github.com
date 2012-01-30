@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Spotkania | [sckrk]]]></title>
   <link href="http://sckrk.com/blog/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://sckrk.com/"/>
-  <updated>2012-01-09T13:52:46+01:00</updated>
+  <updated>2012-01-30T13:45:36+01:00</updated>
   <id>http://sckrk.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 16 - Data Context Interaction]]></title>
+    <link href="http://sckrk.com/blog/2012/01/30/spotkanie-nr-16-data-context-interaction/"/>
+    <updated>2012-01-30T13:30:00+01:00</updated>
+    <id>http://sckrk.com/blog/2012/01/30/spotkanie-nr-16-data-context-interaction</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>08.02.2012 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy <strong>Dominikańskiej</strong> 10, niedaleko Placu Wszystkich Świętych.
+Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
+
+<p><strong>Do przeczytania na spotkanie</strong> jest <a href="http://www.artima.com/articles/dci_vision.html">artykuł wprowadzający wzorzec Data, Context and Interaction</a>.</p>
+
+<p>Ponadto, dla chętnych proponujemy następujące materiały dodatkowe:</p>
+
+<ul>
+<li>książka <a href="http://www.amazon.com/dp/0470684208?tag=leansoftwarch-20&amp;camp=0&amp;creative=0&amp;linkCode=as1&amp;creativeASIN=0470684208&amp;adid=166N0KFTNWH51WSKQVW0">Lean Architecture for Agile Software Development</a></li>
+<li>Prezentacja wideo: <a href="http://vimeo.com/8235574">"The DCI Architecture: Supporting the Agile Agenda" Jamesa Copliena na Oredev</a></li>
+<li>Prezentacja wideo: <a href="http://www.infoq.com/presentations/The-DCI-Architecture">The DCI Architecture: Lean and Agile at the Code Level</a></li>
+<li>Artykuł na InfoQ: <a href="http://www.infoq.com/news/2009/05/dci-coplien-reenskau">Data, Context and Interaction: A New Architectural Approach</a></li>
+<li><a href="http://andrzejonsoftware.blogspot.com/">Blog Andrzeja Szczerby</a></li>
+</ul>
+
+
+<p>Oczywiście w internecie jest dużo więcej ciekawych materiałów o DCI, więc jeżeli znajdziecie coś ciekawego, to podzielcie się swoim odkryciem w komentarzach.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie Nr 15 - The Next 700 Programming Languages]]></title>
@@ -81,18 +106,6 @@ Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http:/
 Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
 
 <p><strong>Do przeczytania na spotkanie</strong> jest kolejny artykuł z cyklu <a href="http://blog.objectmentor.com/articles/2009/02/26/10-papers-every-programmer-should-read-at-least-twice">dziesięciu, które każdy programista przeczytać powinien (co najmniej dwa razy)</a>: <a href="http://ftp.isu.edu.tw/pub/Unix/Desktop/KDE/devel/smli_tr-94-29.pdf">A Note on Distributed Computing</a> (pdf).</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie Nr 11 - Can Programming Be Liberated From The Von Neumann Style?]]></title>
-    <link href="http://sckrk.com/blog/2011/10/16/spotkanie-nr-11-can-programming-be-liberated-from-the-von-neumann-style/"/>
-    <updated>2011-10-16T18:52:00+02:00</updated>
-    <id>http://sckrk.com/blog/2011/10/16/spotkanie-nr-11-can-programming-be-liberated-from-the-von-neumann-style</id>
-    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>19.10.2011 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy Warszauera 10 na Kazimierzu.
-Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
-
-<p><strong>Do przeczytania na spotkanie</strong> jest <a href="https://spreadsheets.google.com/viewanalytics?formkey=dE5kZVJkTEU4cFlzUnE2NDNyRVgzS2c6MQ">wybrany przez Was</a> artykuł autorstwa Johna Backus'a <a href="http://www.stanford.edu/class/cs242/readings/backus.pdf">"Can Programming Be Liberated from the von Neumann Style?"</a> (pdf).</p>
 ]]></content>
   </entry>
   
