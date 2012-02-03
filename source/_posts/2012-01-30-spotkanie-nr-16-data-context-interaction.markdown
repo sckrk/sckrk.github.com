@@ -21,6 +21,11 @@ Ponadto, dla chętnych proponujemy następujące materiały dodatkowe:
 
 Oczywiście w internecie jest dużo więcej ciekawych materiałów o DCI, więc jeżeli znajdziecie coś ciekawego, to podzielcie się swoim odkryciem w komentarzach.
 
+EDIT: Nowe materiały dodatkowe
+
+* [The Right Way to Code DCI in Ruby][dci_ruby]
+* [Handling architecture in the agile world][handling_architecture]
+
 [beerg]: http://beergallery.pl/
 [llp]: http://lunarlogicpolska.com/
 [dci]: http://www.artima.com/articles/dci_vision.html
@@ -29,3 +34,5 @@ Oczywiście w internecie jest dużo więcej ciekawych materiałów o DCI, więc 
 [dci_infoq_video]: http://www.infoq.com/presentations/The-DCI-Architecture
 [dci_infoq]: http://www.infoq.com/news/2009/05/dci-coplien-reenskau
 [andrzej_on_software]: http://andrzejonsoftware.blogspot.com/
+[dci_ruby]: http://mikepackdev.com/blog_posts/24-the-right-way-to-code-dci-in-ruby
+[handling_architecture]: http://blog.jaoo.dk/2009/03/04/handling-architecture-in-the-agile-world/
