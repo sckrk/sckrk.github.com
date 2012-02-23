@@ -1,53 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://sckrk.com/blog/2011/10/16/strona-strona-i-po-stronie/</loc>
+        <loc>http://sckrk.github.com/blog/2011/10/16/strona-strona-i-po-stronie/</loc>
         <lastmod>2011-11-03T11:23:21+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://sckrk.com/blog/2011/10/16/spotkanie-nr-11-can-programming-be-liberated-from-the-von-neumann-style/
+            http://sckrk.github.com/blog/2011/10/16/spotkanie-nr-11-can-programming-be-liberated-from-the-von-neumann-style/
         </loc>
         <lastmod>2011-11-03T11:23:21+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://sckrk.com/blog/2011/11/03/spotkanie-nr-12-a-note-on-distributed-computing/
+            http://sckrk.github.com/blog/2011/11/03/spotkanie-nr-12-a-note-on-distributed-computing/
         </loc>
         <lastmod>2011-11-03T12:21:14+01:00</lastmod>
     </url>
     <url>
-        <loc>http://sckrk.com/blog/2011/11/14/global-day-of-code-retreat/</loc>
+        <loc>http://sckrk.github.com/blog/2011/11/14/global-day-of-code-retreat/</loc>
         <lastmod>2012-01-09T13:34:40+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://sckrk.com/blog/2011/12/07/spotkanie-nr-13-a-laboratory-for-teaching-object-oriented-thinking/
+            http://sckrk.github.com/blog/2011/12/07/spotkanie-nr-13-a-laboratory-for-teaching-object-oriented-thinking/
         </loc>
         <lastmod>2012-01-09T13:34:40+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://sckrk.com/blog/2012/01/02/spotkanie-nr-14-working-effectively-with-legacy-code/
+            http://sckrk.github.com/blog/2012/01/02/spotkanie-nr-14-working-effectively-with-legacy-code/
         </loc>
         <lastmod>2012-01-09T13:34:40+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://sckrk.com/blog/2012/01/09/spotkanie-nr-15-the-next-700-programming-languages/
+            http://sckrk.github.com/blog/2012/01/09/spotkanie-nr-15-the-next-700-programming-languages/
         </loc>
         <lastmod>2012-01-09T13:52:45+01:00</lastmod>
     </url>
     <url>
-        <loc>http://sckrk.com/blog/2012/01/30/spotkanie-nr-16-data-context-interaction/</loc>
-        <lastmod>2012-01-30T16:12:58+01:00</lastmod>
+        <loc>
+            http://sckrk.github.com/blog/2012/01/30/spotkanie-nr-16-data-context-interaction/
+        </loc>
+        <lastmod>2012-02-23T14:14:11+01:00</lastmod>
     </url>
     <url>
-        <loc>http://sckrk.com/</loc>
-        <lastmod>2012-01-30T16:12:58+01:00</lastmod>
+        <loc>http://sckrk.github.com/blog/2012/02/23/spotkanie-nr-17-garbage-collectors/</loc>
+        <lastmod>2012-02-23T14:27:03+01:00</lastmod>
     </url>
     <url>
-        <loc>http://sckrk.com/blog/archives/</loc>
-        <lastmod>2012-01-30T16:12:58+01:00</lastmod>
+        <loc>http://sckrk.github.com/</loc>
+        <lastmod>2012-02-23T14:27:03+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sckrk.github.com/blog/archives/</loc>
+        <lastmod>2012-02-23T14:27:03+01:00</lastmod>
     </url>
 </urlset>

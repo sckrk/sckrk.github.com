@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Inne | [sckrk]]]></title>
-  <link href="http://sckrk.com/blog/categories/inne/atom.xml" rel="self"/>
-  <link href="http://sckrk.com/"/>
-  <updated>2012-02-01T11:45:46+01:00</updated>
-  <id>http://sckrk.com/</id>
+  <link href="http://sckrk.github.com/blog/categories/inne/atom.xml" rel="self"/>
+  <link href="http://sckrk.github.com/"/>
+  <updated>2012-02-23T14:28:30+01:00</updated>
+  <id>http://sckrk.github.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Strona, strona i po stronie]]></title>
-    <link href="http://sckrk.com/blog/2011/10/16/strona-strona-i-po-stronie/"/>
+    <link href="http://sckrk.github.com/blog/2011/10/16/strona-strona-i-po-stronie/"/>
     <updated>2011-10-16T18:16:00+02:00</updated>
-    <id>http://sckrk.com/blog/2011/10/16/strona-strona-i-po-stronie</id>
+    <id>http://sckrk.github.com/blog/2011/10/16/strona-strona-i-po-stronie</id>
     <content type="html"><![CDATA[<p>Jak pewnie zauważyliście, strona SCKRK zmieniła layout, tracąc przy okazji całą dotychczasową zawartość.
 Może kogoś z Was to zdziwiło, dlatego śpieszymy z wyjaśnieniem: serwer <a href="http://rootnode.net/">RootNode</a>, na którym było hostowane <a href="http://sckrk.com/">sckrk.com</a> uległ awarii, a my pozostaliśmy bez kopii zapasowej strony.</p>
 

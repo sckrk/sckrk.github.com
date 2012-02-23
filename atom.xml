@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[[sckrk]]]></title>
-  <link href="http://sckrk.com/atom.xml" rel="self"/>
-  <link href="http://sckrk.com/"/>
-  <updated>2012-02-01T11:45:46+01:00</updated>
-  <id>http://sckrk.com/</id>
+  <link href="http://sckrk.github.com/atom.xml" rel="self"/>
+  <link href="http://sckrk.github.com/"/>
+  <updated>2012-02-23T14:28:30+01:00</updated>
+  <id>http://sckrk.github.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
     
@@ -14,10 +14,24 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 17 - Garbage Collectors]]></title>
+    <link href="http://sckrk.github.com/blog/2012/02/23/spotkanie-nr-17-garbage-collectors/"/>
+    <updated>2012-02-23T14:15:00+01:00</updated>
+    <id>http://sckrk.github.com/blog/2012/02/23/spotkanie-nr-17-garbage-collectors</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>29.02.2012 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy <strong>Dominikańskiej</strong> 3, niedaleko Placu Wszystkich Świętych.
+Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
+
+<p><strong>Do przeczytania na spotkanie</strong> jest artykuł <a href="http://labs.oracle.com/jtech/pubs/04-g1-paper-ismm.pdf">Garbage-First Garbage Collection</a>.</p>
+
+<p>Ponadto zachęcamy, aby każdy uczestnik dowiedział się według jakiego algorytmu działa i jakie możliwości konfiguracji daje &#8220;odśmiecacz&#8221; w jego ulubionym języku programowania.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Spotkanie Nr 16 - Data, Context, Interaction]]></title>
-    <link href="http://sckrk.com/blog/2012/01/30/spotkanie-nr-16-data-context-interaction/"/>
+    <link href="http://sckrk.github.com/blog/2012/01/30/spotkanie-nr-16-data-context-interaction/"/>
     <updated>2012-01-30T13:30:00+01:00</updated>
-    <id>http://sckrk.com/blog/2012/01/30/spotkanie-nr-16-data-context-interaction</id>
+    <id>http://sckrk.github.com/blog/2012/01/30/spotkanie-nr-16-data-context-interaction</id>
     <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>08.02.2012 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy <strong>Dominikańskiej</strong> 3, niedaleko Placu Wszystkich Świętych.
 Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
 
@@ -35,14 +49,22 @@ Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http:/
 
 
 <p>Oczywiście w internecie jest dużo więcej ciekawych materiałów o DCI, więc jeżeli znajdziecie coś ciekawego, to podzielcie się swoim odkryciem w komentarzach.</p>
+
+<p>EDIT: Nowe materiały dodatkowe</p>
+
+<ul>
+<li><a href="http://mikepackdev.com/blog_posts/24-the-right-way-to-code-dci-in-ruby">The Right Way to Code DCI in Ruby</a></li>
+<li><a href="http://blog.jaoo.dk/2009/03/04/handling-architecture-in-the-agile-world/">Handling architecture in the agile world</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie Nr 15 - The Next 700 Programming Languages]]></title>
-    <link href="http://sckrk.com/blog/2012/01/09/spotkanie-nr-15-the-next-700-programming-languages/"/>
+    <link href="http://sckrk.github.com/blog/2012/01/09/spotkanie-nr-15-the-next-700-programming-languages/"/>
     <updated>2012-01-09T14:44:00+01:00</updated>
-    <id>http://sckrk.com/blog/2012/01/09/spotkanie-nr-15-the-next-700-programming-languages</id>
+    <id>http://sckrk.github.com/blog/2012/01/09/spotkanie-nr-15-the-next-700-programming-languages</id>
     <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>18.01.2012 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy <strong>Dominikańskiej</strong> 10, niedaleko Placu Wszystkich Świętych.
 Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
 
@@ -52,9 +74,9 @@ Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http:/
   
   <entry>
     <title type="html"><![CDATA[Spotkanie Nr 14 - Working Effectively with Legacy Code]]></title>
-    <link href="http://sckrk.com/blog/2012/01/02/spotkanie-nr-14-working-effectively-with-legacy-code/"/>
+    <link href="http://sckrk.github.com/blog/2012/01/02/spotkanie-nr-14-working-effectively-with-legacy-code/"/>
     <updated>2012-01-02T22:29:00+01:00</updated>
-    <id>http://sckrk.com/blog/2012/01/02/spotkanie-nr-14-working-effectively-with-legacy-code</id>
+    <id>http://sckrk.github.com/blog/2012/01/02/spotkanie-nr-14-working-effectively-with-legacy-code</id>
     <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>04.01.2012 o godzinie 19:00</strong> w zmienionej lokalizacji - w <a href="http://beergallery.pl/">Beer Gallery Pub</a> na ulicy <strong>Dominikańskiej 10</strong>, niedaleko Placu Wszystkich Świętych.
 Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
 
@@ -87,21 +109,21 @@ Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http:/
   
   <entry>
     <title type="html"><![CDATA[Spotkanie Nr 13 - A Laboratory for Teaching Object-Oriented Thinking]]></title>
-    <link href="http://sckrk.com/blog/2011/12/07/spotkanie-nr-13-a-laboratory-for-teaching-object-oriented-thinking/"/>
+    <link href="http://sckrk.github.com/blog/2011/12/07/spotkanie-nr-13-a-laboratory-for-teaching-object-oriented-thinking/"/>
     <updated>2011-12-07T21:44:00+01:00</updated>
-    <id>http://sckrk.com/blog/2011/12/07/spotkanie-nr-13-a-laboratory-for-teaching-object-oriented-thinking</id>
+    <id>http://sckrk.github.com/blog/2011/12/07/spotkanie-nr-13-a-laboratory-for-teaching-object-oriented-thinking</id>
     <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>14.12.2011 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy Warszauera 10 na Kazimierzu.
 Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
 
-<p><strong>Do przeczytania na spotkanie</strong> jest kolejny artykuł z cyklu <a href="http://blog.objectmentor.com/articles/2009/02/26/10-papers-every-programmer-should-read-at-least-twice">dziesięciu, które każdy programista przeczytać powinien (co najmniej dwa razy)</a>: <a href="http://sckrk.com/downloads/lab_for_teaching_oo.pdf">A Laboratory for Teaching Object-Oriented Thinking</a> autorstwa <a href="http://en.wikipedia.org/wiki/Kent_Beck">Kenta Becka</a> (pdf).</p>
+<p><strong>Do przeczytania na spotkanie</strong> jest kolejny artykuł z cyklu <a href="http://blog.objectmentor.com/articles/2009/02/26/10-papers-every-programmer-should-read-at-least-twice">dziesięciu, które każdy programista przeczytać powinien (co najmniej dwa razy)</a>: <a href="http://sckrk.github.com/downloads/lab_for_teaching_oo.pdf">A Laboratory for Teaching Object-Oriented Thinking</a> autorstwa <a href="http://en.wikipedia.org/wiki/Kent_Beck">Kenta Becka</a> (pdf).</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Global Day of Code Retreat]]></title>
-    <link href="http://sckrk.com/blog/2011/11/14/global-day-of-code-retreat/"/>
+    <link href="http://sckrk.github.com/blog/2011/11/14/global-day-of-code-retreat/"/>
     <updated>2011-11-14T09:28:00+01:00</updated>
-    <id>http://sckrk.com/blog/2011/11/14/global-day-of-code-retreat</id>
+    <id>http://sckrk.github.com/blog/2011/11/14/global-day-of-code-retreat</id>
     <content type="html"><![CDATA[<p>We would like to invite everyone to a Code Retreat, which will take place in Cracow on the <strong>3rd of December 2011</strong> as a part of <a href="http://coderetreat.com/global_day.html">Global Day of Code Retreat</a>.</p>
 
 <p>You can find all of the details on the event site: <a href="http://coderetreat.sckrk.com">coderetreat.sckrk.com</a></p>
@@ -114,9 +136,9 @@ Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http:/
   
   <entry>
     <title type="html"><![CDATA[Spotkanie Nr 12 - A Note on Distributed Computing]]></title>
-    <link href="http://sckrk.com/blog/2011/11/03/spotkanie-nr-12-a-note-on-distributed-computing/"/>
+    <link href="http://sckrk.github.com/blog/2011/11/03/spotkanie-nr-12-a-note-on-distributed-computing/"/>
     <updated>2011-11-03T12:12:00+01:00</updated>
-    <id>http://sckrk.com/blog/2011/11/03/spotkanie-nr-12-a-note-on-distributed-computing</id>
+    <id>http://sckrk.github.com/blog/2011/11/03/spotkanie-nr-12-a-note-on-distributed-computing</id>
     <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>09.11.2011 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy Warszauera 10 na Kazimierzu.
 Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
 
@@ -126,9 +148,9 @@ Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http:/
   
   <entry>
     <title type="html"><![CDATA[Spotkanie Nr 11 - Can Programming Be Liberated From The Von Neumann Style?]]></title>
-    <link href="http://sckrk.com/blog/2011/10/16/spotkanie-nr-11-can-programming-be-liberated-from-the-von-neumann-style/"/>
+    <link href="http://sckrk.github.com/blog/2011/10/16/spotkanie-nr-11-can-programming-be-liberated-from-the-von-neumann-style/"/>
     <updated>2011-10-16T18:52:00+02:00</updated>
-    <id>http://sckrk.com/blog/2011/10/16/spotkanie-nr-11-can-programming-be-liberated-from-the-von-neumann-style</id>
+    <id>http://sckrk.github.com/blog/2011/10/16/spotkanie-nr-11-can-programming-be-liberated-from-the-von-neumann-style</id>
     <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>19.10.2011 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy Warszauera 10 na Kazimierzu.
 Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
 
@@ -138,9 +160,9 @@ Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http:/
   
   <entry>
     <title type="html"><![CDATA[Strona, strona i po stronie]]></title>
-    <link href="http://sckrk.com/blog/2011/10/16/strona-strona-i-po-stronie/"/>
+    <link href="http://sckrk.github.com/blog/2011/10/16/strona-strona-i-po-stronie/"/>
     <updated>2011-10-16T18:16:00+02:00</updated>
-    <id>http://sckrk.com/blog/2011/10/16/strona-strona-i-po-stronie</id>
+    <id>http://sckrk.github.com/blog/2011/10/16/strona-strona-i-po-stronie</id>
     <content type="html"><![CDATA[<p>Jak pewnie zauważyliście, strona SCKRK zmieniła layout, tracąc przy okazji całą dotychczasową zawartość.
 Może kogoś z Was to zdziwiło, dlatego śpieszymy z wyjaśnieniem: serwer <a href="http://rootnode.net/">RootNode</a>, na którym było hostowane <a href="http://sckrk.com/">sckrk.com</a> uległ awarii, a my pozostaliśmy bez kopii zapasowej strony.</p>
 

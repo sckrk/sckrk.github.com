@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: code-retreat | [sckrk]]]></title>
-  <link href="http://sckrk.com/blog/categories/code-retreat/atom.xml" rel="self"/>
-  <link href="http://sckrk.com/"/>
-  <updated>2012-02-01T11:45:46+01:00</updated>
-  <id>http://sckrk.com/</id>
+  <link href="http://sckrk.github.com/blog/categories/code-retreat/atom.xml" rel="self"/>
+  <link href="http://sckrk.github.com/"/>
+  <updated>2012-02-23T14:28:30+01:00</updated>
+  <id>http://sckrk.github.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Global Day of Code Retreat]]></title>
-    <link href="http://sckrk.com/blog/2011/11/14/global-day-of-code-retreat/"/>
+    <link href="http://sckrk.github.com/blog/2011/11/14/global-day-of-code-retreat/"/>
     <updated>2011-11-14T09:28:00+01:00</updated>
-    <id>http://sckrk.com/blog/2011/11/14/global-day-of-code-retreat</id>
+    <id>http://sckrk.github.com/blog/2011/11/14/global-day-of-code-retreat</id>
     <content type="html"><![CDATA[<p>We would like to invite everyone to a Code Retreat, which will take place in Cracow on the <strong>3rd of December 2011</strong> as a part of <a href="http://coderetreat.com/global_day.html">Global Day of Code Retreat</a>.</p>
 
 <p>You can find all of the details on the event site: <a href="http://coderetreat.sckrk.com">coderetreat.sckrk.com</a></p>
