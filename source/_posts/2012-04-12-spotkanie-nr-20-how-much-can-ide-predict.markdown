@@ -12,12 +12,16 @@ Artykułem do przeczytania na spotkanie jest ["IDE 2.0: Collective Intelligence 
 
 Chętnych zapraszamy także do zapoznania się z ciekawą, choć luźno związaną z tematem [prezentacją Breta Victora "Inventing on Principle"][inventing].
 
-EDIT:
-[Łukasz][bambuchadm] znalazł prezentację znacznie bardziej związaną z tematem: ["Do you still read source code to learn how to use an API?"][idevideo].
+Kilka dodatkowych linków:
+
+* [Do you still read source code to learn how to use an API?][idevideo]
+* [Light Table - a New IDE Concept][ltable]
+* [Is helpful software really helpful?][helpful]
 
 [llp]: http://lunarlogicpolska.com/
 [llp_mapka]: http://g.co/maps/2x44j
 [ide]: http://code-recommenders.blogspot.com/2010/08/eclipse-and-academia-briding-gap.html
 [inventing]: http://vimeo.com/36579366 
 [idevideo]: http://code-recommenders.blogspot.com/2011/11/do-you-still-read-source-code-to-learn.html
-[bambuchadm]: https://twitter.com/bambuchaAdm
+[ltable]: http://www.chris-granger.com/2012/04/12/light-table---a-new-ide-concept/
+[helpful]: http://www.johndcook.com/blog/2010/08/24/overly-helpful-software/
