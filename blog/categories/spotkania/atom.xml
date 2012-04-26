@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Spotkania | [sckrk]]]></title>
   <link href="http://sckrk.github.com/blog/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://sckrk.github.com/"/>
-  <updated>2012-02-23T14:28:30+01:00</updated>
+  <updated>2012-04-26T18:34:35+02:00</updated>
   <id>http://sckrk.github.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
@@ -12,6 +12,87 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 21 - The Grand Unified Theory...]]></title>
+    <link href="http://sckrk.github.com/blog/2012/04/26/spotkanie-nr-21-the-grand-unified-theory-dot-dot-dot/"/>
+    <updated>2012-04-26T18:09:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/04/26/spotkanie-nr-21-the-grand-unified-theory-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>09.05.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
+
+<p>Tym razem <strong>do obejrzenia na spotkanie</strong> jest prezentacja Jima Weinrich'a pod tytułem "The Grand Unified Theory...":</p>
+
+<ul>
+<li><a href="http://aac2009.confreaks.com/06-feb-2009-11-00-the-grand-unified-theory-jim-weirich.html">wideo</a></li>
+<li><a href="http://www.slideshare.net/LittleBIGRuby/the-building-blocks-of-modularity">slajdy</a></li>
+</ul>
+
+
+<p>Dla zainteresowanych polecamy także materiały dodatkowe:</p>
+
+<ul>
+<li><a href="http://www.markhneedham.com/blog/2009/10/28/coding-connascence-some-examples/">Coding: Connascence – Some examples</a></li>
+<li><a href="http://reborg.tumblr.com/post/82362851/clean-code-cheat-sheet">Clean Code Cheat Sheet</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 20 - How Much Can IDE Predict?]]></title>
+    <link href="http://sckrk.github.com/blog/2012/04/12/spotkanie-nr-20-how-much-can-ide-predict/"/>
+    <updated>2012-04-12T23:17:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/04/12/spotkanie-nr-20-how-much-can-ide-predict</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>18.04.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
+
+<p>Artykułem do przeczytania na spotkanie jest <a href="http://code-recommenders.blogspot.com/2010/08/eclipse-and-academia-briding-gap.html">"IDE 2.0: Collective Intelligence in Software Development"</a>.</p>
+
+<p>Chętnych zapraszamy także do zapoznania się z ciekawą, choć luźno związaną z tematem <a href="http://vimeo.com/36579366">prezentacją Breta Victora "Inventing on Principle"</a>.</p>
+
+<p>Kilka dodatkowych linków:</p>
+
+<ul>
+<li><a href="http://code-recommenders.blogspot.com/2011/11/do-you-still-read-source-code-to-learn.html">Do you still read source code to learn how to use an API?</a></li>
+<li><a href="http://www.chris-granger.com/2012/04/12/light-table---a-new-ide-concept/">Light Table - a New IDE Concept</a></li>
+<li><a href="http://www.johndcook.com/blog/2010/08/24/overly-helpful-software/">Is helpful software really helpful?</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 19 - Homo Informaticus - racjonalnie nieracjonalni]]></title>
+    <link href="http://sckrk.github.com/blog/2012/03/26/spotkanie-nr-19-homo-informaticus-racjonalnie-nieracjonalni/"/>
+    <updated>2012-03-26T21:34:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/03/26/spotkanie-nr-19-homo-informaticus-racjonalnie-nieracjonalni</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>04.04.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
+
+<p>Tym razem zaczniemy spotkanie od prezentacji Pawła Badeńskiego, która spotkała się z bardzo pozytywnym przyjęciem na ostatnim <a href="http://www.java.pl/?p=216">JavaCamp</a>: "Homo Informaticus - racjonalnie nieracjonalni".</p>
+
+<p>Chętnych zapraszamy także do zapoznania się z <a href="http://www.infoq.com/interviews/rising-on-placebos">wywiadem z Lindą Rising</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 18 - Lean Startup]]></title>
+    <link href="http://sckrk.github.com/blog/2012/03/13/spotkanie-nr-18-lean-startup/"/>
+    <updated>2012-03-13T18:04:00+01:00</updated>
+    <id>http://sckrk.github.com/blog/2012/03/13/spotkanie-nr-18-lean-startup</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>21.03.2012 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy <strong>Dominikańskiej</strong> 3, niedaleko Placu Wszystkich Świętych.
+Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
+
+<p><strong>Do przeczytania na spotkanie</strong> są trzy artykuły i prezentacja wideo związane z Lean Startup:</p>
+
+<ul>
+<li><a href="http://steveblank.com/2012/02/27/killing-your-startup-by-listening-to-customers/">Killing Your Startup by Listening to Customers</a></li>
+<li><a href="http://startup-marketing.com/the-startup-pyramid/">The Startup Pyramid</a></li>
+<li><a href="http://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html">Minimum Viable Product: a guide</a></li>
+</ul>
+
+
+<p>Mile widziane jest też zapoznanie się z treścią książki <a href="http://theleanstartup.com/book">"Lean Startup" Erica Ries'a</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie Nr 17 - Garbage Collectors]]></title>
@@ -24,98 +105,6 @@ Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http:/
 <p><strong>Do przeczytania na spotkanie</strong> jest artykuł <a href="http://labs.oracle.com/jtech/pubs/04-g1-paper-ismm.pdf">Garbage-First Garbage Collection</a>.</p>
 
 <p>Ponadto zachęcamy, aby każdy uczestnik dowiedział się według jakiego algorytmu działa i jakie możliwości konfiguracji daje "odśmiecacz" w jego ulubionym języku programowania.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie Nr 16 - Data, Context, Interaction]]></title>
-    <link href="http://sckrk.github.com/blog/2012/01/30/spotkanie-nr-16-data-context-interaction/"/>
-    <updated>2012-01-30T13:30:00+01:00</updated>
-    <id>http://sckrk.github.com/blog/2012/01/30/spotkanie-nr-16-data-context-interaction</id>
-    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>08.02.2012 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy <strong>Dominikańskiej</strong> 3, niedaleko Placu Wszystkich Świętych.
-Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
-
-<p><strong>Do przeczytania na spotkanie</strong> jest <a href="http://www.artima.com/articles/dci_vision.html">artykuł wprowadzający wzorzec Data, Context and Interaction</a>.</p>
-
-<p>Ponadto, dla chętnych proponujemy następujące materiały dodatkowe:</p>
-
-<ul>
-<li>książka <a href="http://www.amazon.com/dp/0470684208?tag=leansoftwarch-20&amp;camp=0&amp;creative=0&amp;linkCode=as1&amp;creativeASIN=0470684208&amp;adid=166N0KFTNWH51WSKQVW0">Lean Architecture for Agile Software Development</a></li>
-<li>Prezentacja wideo: <a href="http://vimeo.com/8235574">"The DCI Architecture: Supporting the Agile Agenda" Jamesa Copliena na Oredev</a></li>
-<li>Prezentacja wideo: <a href="http://www.infoq.com/presentations/The-DCI-Architecture">The DCI Architecture: Lean and Agile at the Code Level</a></li>
-<li>Artykuł na InfoQ: <a href="http://www.infoq.com/news/2009/05/dci-coplien-reenskau">Data, Context and Interaction: A New Architectural Approach</a></li>
-<li><a href="http://andrzejonsoftware.blogspot.com/">Blog Andrzeja Krzywdy</a></li>
-</ul>
-
-
-<p>Oczywiście w internecie jest dużo więcej ciekawych materiałów o DCI, więc jeżeli znajdziecie coś ciekawego, to podzielcie się swoim odkryciem w komentarzach.</p>
-
-<p>EDIT: Nowe materiały dodatkowe</p>
-
-<ul>
-<li><a href="http://mikepackdev.com/blog_posts/24-the-right-way-to-code-dci-in-ruby">The Right Way to Code DCI in Ruby</a></li>
-<li><a href="http://blog.jaoo.dk/2009/03/04/handling-architecture-in-the-agile-world/">Handling architecture in the agile world</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie Nr 15 - The Next 700 Programming Languages]]></title>
-    <link href="http://sckrk.github.com/blog/2012/01/09/spotkanie-nr-15-the-next-700-programming-languages/"/>
-    <updated>2012-01-09T14:44:00+01:00</updated>
-    <id>http://sckrk.github.com/blog/2012/01/09/spotkanie-nr-15-the-next-700-programming-languages</id>
-    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>18.01.2012 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy <strong>Dominikańskiej</strong> 10, niedaleko Placu Wszystkich Świętych.
-Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
-
-<p><strong>Do przeczytania na spotkanie</strong> jest kolejny artykuł z cyklu <a href="http://blog.objectmentor.com/articles/2009/02/26/10-papers-every-programmer-should-read-at-least-twice">dziesięciu, które każdy programista przeczytać powinien (co najmniej dwa razy)</a>: <a href="http://www.thecorememory.com/Next_700.pdf">The Next 700 Programming Languages</a> autorstwa <a href="http://en.wikipedia.org/wiki/Peter_Landin">Petera Landina</a> (pdf).</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie Nr 14 - Working Effectively with Legacy Code]]></title>
-    <link href="http://sckrk.github.com/blog/2012/01/02/spotkanie-nr-14-working-effectively-with-legacy-code/"/>
-    <updated>2012-01-02T22:29:00+01:00</updated>
-    <id>http://sckrk.github.com/blog/2012/01/02/spotkanie-nr-14-working-effectively-with-legacy-code</id>
-    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>04.01.2012 o godzinie 19:00</strong> w zmienionej lokalizacji - w <a href="http://beergallery.pl/">Beer Gallery Pub</a> na ulicy <strong>Dominikańskiej 10</strong>, niedaleko Placu Wszystkich Świętych.
-Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
-
-<p><strong>Do przeczytania na spotkanie</strong> jest tym razem <a href="http://www.objectmentor.com/resources/articles/WorkingEffectivelyWithLegacyCode.pdf">artykuł autorstwa Michael'a Feathers'a "Working Effectively with Legacy Code"</a>. (pdf)</p>
-
-<p>Ponadto, dla chętnych proponujemy następujące materiały dodatkowe:</p>
-
-<ul>
-<li><a href="http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052">Książka Michael'a Feathers'a o tym samym tytule</a></li>
-<li><a href="http://codebetter.com/jeremymiller/2006/05/04/lessons-learned-for-dealing-with-legacy-code/">Lessons Learned from Dealing with Legacy Code</a></li>
-<li><a href="http://osherove.com/blog/2009/8/18/ndc-video-michael-feathers-working-effectively-with-legacy-c.html">Nagranie z NDC 2009</a></li>
-<li><a href="http://www.hanselman.com/blog/HanselminutesPodcast165WorkingEffectivelyWithLegacyCodeWithMichaelFeathers.aspx">Podcast Hanselminutes</a></li>
-<li><a href="http://www.infoq.com/articles/Dealing-with-legacy-code">Dealing with Legacy Code</a></li>
-</ul>
-
-
-<p><strong>Ważne:</strong></p>
-
-<p>Pamiętajcie o zmienionej lokalizacji spotkania - tym razem spotykamy się na Dominikańskiej 10. Mapka poniżej:</p>
-
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Dominika%C5%84ska+10,+Krak%C3%B3w,+Polska&amp;aq=0&amp;sll=50.02441,19.983585&amp;sspn=0.194764,0.528374&amp;vpsrc=6&amp;ie=UTF8&amp;hq=&amp;hnear=Dominika%C5%84ska+10,+Krak%C3%B3w,+ma%C5%82opolskie,+Poland&amp;ll=50.059038,19.93943&amp;spn=0.003041,0.008256&amp;t=h&amp;z=14&amp;output=embed"></iframe>
-
-
-<br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Dominika%C5%84ska+10,+Krak%C3%B3w,+Polska&amp;aq=0&amp;sll=50.02441,19.983585&amp;sspn=0.194764,0.528374&amp;vpsrc=6&amp;ie=UTF8&amp;hq=&amp;hnear=Dominika%C5%84ska+10,+Krak%C3%B3w,+ma%C5%82opolskie,+Poland&amp;ll=50.059038,19.93943&amp;spn=0.003041,0.008256&amp;t=h&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie Nr 13 - A Laboratory for Teaching Object-Oriented Thinking]]></title>
-    <link href="http://sckrk.github.com/blog/2011/12/07/spotkanie-nr-13-a-laboratory-for-teaching-object-oriented-thinking/"/>
-    <updated>2011-12-07T21:44:00+01:00</updated>
-    <id>http://sckrk.github.com/blog/2011/12/07/spotkanie-nr-13-a-laboratory-for-teaching-object-oriented-thinking</id>
-    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>14.12.2011 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy Warszauera 10 na Kazimierzu.
-Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
-
-<p><strong>Do przeczytania na spotkanie</strong> jest kolejny artykuł z cyklu <a href="http://blog.objectmentor.com/articles/2009/02/26/10-papers-every-programmer-should-read-at-least-twice">dziesięciu, które każdy programista przeczytać powinien (co najmniej dwa razy)</a>: <a href="/downloads/lab_for_teaching_oo.pdf">A Laboratory for Teaching Object-Oriented Thinking</a> autorstwa <a href="http://en.wikipedia.org/wiki/Kent_Beck">Kenta Becka</a> (pdf).</p>
 ]]></content>
   </entry>
   

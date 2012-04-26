@@ -4,7 +4,7 @@
   <title><![CDATA[[sckrk]]]></title>
   <link href="http://sckrk.github.com/atom.xml" rel="self"/>
   <link href="http://sckrk.github.com/"/>
-  <updated>2012-02-23T14:28:30+01:00</updated>
+  <updated>2012-04-26T18:34:35+02:00</updated>
   <id>http://sckrk.github.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
@@ -12,6 +12,87 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 21 - The Grand Unified Theory...]]></title>
+    <link href="http://sckrk.github.com/blog/2012/04/26/spotkanie-nr-21-the-grand-unified-theory-dot-dot-dot/"/>
+    <updated>2012-04-26T18:09:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/04/26/spotkanie-nr-21-the-grand-unified-theory-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>09.05.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
+
+<p>Tym razem <strong>do obejrzenia na spotkanie</strong> jest prezentacja Jima Weinrich&#8217;a pod tytułem &#8220;The Grand Unified Theory&#8230;&#8221;:</p>
+
+<ul>
+<li><a href="http://aac2009.confreaks.com/06-feb-2009-11-00-the-grand-unified-theory-jim-weirich.html">wideo</a></li>
+<li><a href="http://www.slideshare.net/LittleBIGRuby/the-building-blocks-of-modularity">slajdy</a></li>
+</ul>
+
+
+<p>Dla zainteresowanych polecamy także materiały dodatkowe:</p>
+
+<ul>
+<li><a href="http://www.markhneedham.com/blog/2009/10/28/coding-connascence-some-examples/">Coding: Connascence – Some examples</a></li>
+<li><a href="http://reborg.tumblr.com/post/82362851/clean-code-cheat-sheet">Clean Code Cheat Sheet</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 20 - How Much Can IDE Predict?]]></title>
+    <link href="http://sckrk.github.com/blog/2012/04/12/spotkanie-nr-20-how-much-can-ide-predict/"/>
+    <updated>2012-04-12T23:17:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/04/12/spotkanie-nr-20-how-much-can-ide-predict</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>18.04.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
+
+<p>Artykułem do przeczytania na spotkanie jest <a href="http://code-recommenders.blogspot.com/2010/08/eclipse-and-academia-briding-gap.html">&#8220;IDE 2.0: Collective Intelligence in Software Development&#8221;</a>.</p>
+
+<p>Chętnych zapraszamy także do zapoznania się z ciekawą, choć luźno związaną z tematem <a href="http://vimeo.com/36579366">prezentacją Breta Victora &#8220;Inventing on Principle&#8221;</a>.</p>
+
+<p>Kilka dodatkowych linków:</p>
+
+<ul>
+<li><a href="http://code-recommenders.blogspot.com/2011/11/do-you-still-read-source-code-to-learn.html">Do you still read source code to learn how to use an API?</a></li>
+<li><a href="http://www.chris-granger.com/2012/04/12/light-table---a-new-ide-concept/">Light Table - a New IDE Concept</a></li>
+<li><a href="http://www.johndcook.com/blog/2010/08/24/overly-helpful-software/">Is helpful software really helpful?</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 19 - Homo Informaticus - racjonalnie nieracjonalni]]></title>
+    <link href="http://sckrk.github.com/blog/2012/03/26/spotkanie-nr-19-homo-informaticus-racjonalnie-nieracjonalni/"/>
+    <updated>2012-03-26T21:34:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/03/26/spotkanie-nr-19-homo-informaticus-racjonalnie-nieracjonalni</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>04.04.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
+
+<p>Tym razem zaczniemy spotkanie od prezentacji Pawła Badeńskiego, która spotkała się z bardzo pozytywnym przyjęciem na ostatnim <a href="http://www.java.pl/?p=216">JavaCamp</a>: &#8220;Homo Informaticus - racjonalnie nieracjonalni&#8221;.</p>
+
+<p>Chętnych zapraszamy także do zapoznania się z <a href="http://www.infoq.com/interviews/rising-on-placebos">wywiadem z Lindą Rising</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 18 - Lean Startup]]></title>
+    <link href="http://sckrk.github.com/blog/2012/03/13/spotkanie-nr-18-lean-startup/"/>
+    <updated>2012-03-13T18:04:00+01:00</updated>
+    <id>http://sckrk.github.com/blog/2012/03/13/spotkanie-nr-18-lean-startup</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>21.03.2012 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy <strong>Dominikańskiej</strong> 3, niedaleko Placu Wszystkich Świętych.
+Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
+
+<p><strong>Do przeczytania na spotkanie</strong> są trzy artykuły i prezentacja wideo związane z Lean Startup:</p>
+
+<ul>
+<li><a href="http://steveblank.com/2012/02/27/killing-your-startup-by-listening-to-customers/">Killing Your Startup by Listening to Customers</a></li>
+<li><a href="http://startup-marketing.com/the-startup-pyramid/">The Startup Pyramid</a></li>
+<li><a href="http://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html">Minimum Viable Product: a guide</a></li>
+</ul>
+
+
+<p>Mile widziane jest też zapoznanie się z treścią książki <a href="http://theleanstartup.com/book">&#8220;Lean Startup&#8221; Erica Ries&#8217;a</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie Nr 17 - Garbage Collectors]]></title>
