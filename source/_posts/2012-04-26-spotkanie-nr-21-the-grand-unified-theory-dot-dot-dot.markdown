@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spotkanie Nr 21 - The Grand Unified Theory..."
+title: "Spotkanie Nr 21 - The Grand Unified Theory of Software Design"
 date: 2012-04-26 18:09
 comments: true
 categories: Spotkania
@@ -8,7 +8,7 @@ categories: Spotkania
 
 Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia **09.05.2012 o godzinie 19:00** w [siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3][llp_mapka] (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez [LLP][llp].
 
-Tym razem **do obejrzenia na spotkanie** jest prezentacja Jima Weinrich'a pod tytułem "The Grand Unified Theory...":
+Tym razem **do obejrzenia na spotkanie** jest prezentacja Jima Weinrich'a pod tytułem "The Grand Unified Theory of Software Design"
 
 * [wideo][grand_theory_video]
 * [slajdy][grand_theory_slides]
