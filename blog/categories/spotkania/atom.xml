@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Spotkania | [sckrk]]]></title>
   <link href="http://sckrk.github.com/blog/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://sckrk.github.com/"/>
-  <updated>2012-06-06T20:31:40+02:00</updated>
+  <updated>2012-06-06T20:46:19+02:00</updated>
   <id>http://sckrk.github.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 23 - Integration Tests are a Scam]]></title>
+    <link href="http://sckrk.github.com/blog/2012/06/06/spotkanie-nr-23-integration-tests-are-a-scam/"/>
+    <updated>2012-06-06T20:38:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/06/06/spotkanie-nr-23-integration-tests-are-a-scam</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>13.06.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
+
+<p>Tym razem <strong>do przeczytania na spotkanie</strong> są dwa artykuły <a href="http://www.jbrains.ca/">J. B. Rainsberger'a</a>:</p>
+
+<ul>
+<li><a href="http://blog.thecodewhisperer.com/2010/10/16/integrated-tests-are-a-scam/">Integrated Tests are a Scam</a></li>
+<li><a href="http://www.jbrains.ca/permalink/part-2-some-hidden-costs-of-integration-tests">Some Hidden Costs of Integration Tests</a></li>
+</ul>
+
+
+<p>Zainteresowanym polecamy także prezentację wideo o tym samym tytule:</p>
+
+<ul>
+<li><a href="http://www.infoq.com/presentations/integration-tests-scam">InfoQ: Integration Tetsts are a Scam</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie Nr 22 - Lock-free Algorithms]]></title>
@@ -88,27 +112,6 @@
 <p>Tym razem zaczniemy spotkanie od prezentacji Pawła Badeńskiego, która spotkała się z bardzo pozytywnym przyjęciem na ostatnim <a href="http://www.java.pl/?p=216">JavaCamp</a>: "Homo Informaticus - racjonalnie nieracjonalni".</p>
 
 <p>Chętnych zapraszamy także do zapoznania się z <a href="http://www.infoq.com/interviews/rising-on-placebos">wywiadem z Lindą Rising</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie Nr 18 - Lean Startup]]></title>
-    <link href="http://sckrk.github.com/blog/2012/03/13/spotkanie-nr-18-lean-startup/"/>
-    <updated>2012-03-13T18:04:00+01:00</updated>
-    <id>http://sckrk.github.com/blog/2012/03/13/spotkanie-nr-18-lean-startup</id>
-    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>21.03.2012 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy <strong>Dominikańskiej</strong> 3, niedaleko Placu Wszystkich Świętych.
-Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
-
-<p><strong>Do przeczytania na spotkanie</strong> są trzy artykuły i prezentacja wideo związane z Lean Startup:</p>
-
-<ul>
-<li><a href="http://steveblank.com/2012/02/27/killing-your-startup-by-listening-to-customers/">Killing Your Startup by Listening to Customers</a></li>
-<li><a href="http://startup-marketing.com/the-startup-pyramid/">The Startup Pyramid</a></li>
-<li><a href="http://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html">Minimum Viable Product: a guide</a></li>
-</ul>
-
-
-<p>Mile widziane jest też zapoznanie się z treścią książki <a href="http://theleanstartup.com/book">"Lean Startup" Erica Ries'a</a>.</p>
 ]]></content>
   </entry>
   
