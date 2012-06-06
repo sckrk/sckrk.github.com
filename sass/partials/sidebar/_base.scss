@@ -21,6 +21,7 @@ aside.sidebar {
     }
   }
   img {
+    margin-top: 1em;
     @extend .flex-content;
     @extend .basic-alignment;
   }
