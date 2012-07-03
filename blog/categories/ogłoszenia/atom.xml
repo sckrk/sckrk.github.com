@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: ogłoszenia | [sckrk]]]></title>
+  <link href="http://sckrk.github.com/blog/categories/ogłoszenia/atom.xml" rel="self"/>
+  <link href="http://sckrk.github.com/"/>
+  <updated>2012-07-03T21:10:21+02:00</updated>
+  <id>http://sckrk.github.com/</id>
+  <author>
+    <name><![CDATA[Adam Pohorecki]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Praktyki w Lunar Logic]]></title>
+    <link href="http://sckrk.github.com/blog/2012/06/27/praktyki-w-lunar-logic/"/>
+    <updated>2012-06-27T15:22:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/06/27/praktyki-w-lunar-logic</id>
+    <content type="html"><![CDATA[<p>Lunar Logic, firma która zapewnia SCKRK wikt i opierunek, planuje letnie praktyki dla studentów.
+Praktyki są płatne i ich celem jest nauka Ruby/Rails/programowania, a nie wyrobnictwo albo parzenie kawy, więc możliwe, że część z Was to ogłoszenie zainteresuje.</p>
+
+<!-- more -->
+
+
+<h2>Ogłoszenie:</h2>
+
+<p>Would you like to learn how to code in Ruby? Or how NOT to do it? From people who remember Rails 1.0?</p>
+
+<p>We are looking for passionate programmers who are familiar with or are willing to learn Ruby for summer apprenticeship (with a possibility of further cooperation).</p>
+
+<p>If you're tired of disorganized student projects, <a href="http://www.lunarlogicpolska.com/">Lunar Logic</a> offers you an opportunity to experience Scrum and Kanban in a real environment. Our working ethic consists of a stress-free workplace where your efforts and actions matter more than time you spend here. We value honesty and self-development through open criticism.
+You will learn with us.</p>
+
+<p>In case you haven't heard of us before, Lunar Logic has been involved in:</p>
+
+<ul>
+<li><a href="http://euruko2010.org/">EuRuKo 2010 Conference</a></li>
+<li><a href="http://aceconf.com">ACE! Conference</a></li>
+<li><a href="http://lanyrd.com/2011/front-row/">Front Row Conference</a></li>
+<li><a href="http://coderetreat.sckrk.com">Code Retreat</a></li>
+<li><a href="http://sckrk.com">Software Craftsmanship in Kraków</a></li>
+<li><a href="http://www.ruby.org.pl">Kraków Ruby Users Group</a></li>
+<li><a href="http://nosqlsummer.org/city/krakow">NoSQL Summer</a></li>
+<li><a href="http://signup.hackerspace-krk.pl/">Hackerspace Kraków</a></li>
+</ul>
+
+
+<p>Our requirements are simple:</p>
+
+<ul>
+<li>a bit of cleverness,</li>
+<li>willingness for learning new skills,</li>
+<li>communicative English.</li>
+</ul>
+
+
+<p>What we offer:</p>
+
+<ul>
+<li>1000-2000zł net pay depending on experience and knowledge,</li>
+<li>a master (guru, mentor - you name it), who will guide you during your apprenticeship,</li>
+<li>company bicycle,</li>
+<li>yoga classes two times a week.</li>
+</ul>
+
+
+<p>Please submit your credentials to Mirek Woźniak - mirek (at) llp.pl.</p>
+]]></content>
+  </entry>
+  
+</feed>

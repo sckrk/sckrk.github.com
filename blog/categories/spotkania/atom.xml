@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Spotkania | [sckrk]]]></title>
   <link href="http://sckrk.github.com/blog/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://sckrk.github.com/"/>
-  <updated>2012-06-06T20:54:46+02:00</updated>
+  <updated>2012-07-03T21:10:21+02:00</updated>
   <id>http://sckrk.github.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 24 - Grillowanie przy Cacheowaniu]]></title>
+    <link href="http://sckrk.github.com/blog/2012/06/26/spotkanie-nr-24-grillowanie-przy-cacheowaniu/"/>
+    <updated>2012-06-26T09:08:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/06/26/spotkanie-nr-24-grillowanie-przy-cacheowaniu</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>04.07.2012 o godzinie 19:00</strong>, tym razem nietypowo, bo przy grillu <a href="http://goo.gl/maps/xHDI">na Miasteczku Studenckim AGH, pomiędzy "jamnikami"</a>. Jedzenie i piwo będzie sponsorowane przez <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>. Osoby dysponujące grillami, których moglibyśmy użyć są proszone o kontakt ze mną na maila: adam[at]pohorecki.pl.</p>
+
+<p>Tym razem <strong>do przeczytania na spotkanie</strong> jest tylko jeden artykuł:</p>
+
+<ul>
+<li><a href="https://groups.google.com/forum/#!msg/memcached/OiScvRbGaU8/C1vny7DiGakJ">Algorithm for automatic cache invalidation</a></li>
+</ul>
+
+
+<p>UPDATE:</p>
+
+<p>Prognoza pogody mówi, że jutro nie będzie (bardzo;) padać, więc grill odbędzie się zgodnie z zapowiedzią. Nie zapomnijcie o czymś do siedzenia.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie Nr 23 - Integration Tests are a Scam]]></title>
@@ -99,19 +119,6 @@
 <li><a href="http://www.johndcook.com/blog/2010/08/24/overly-helpful-software/">Is helpful software really helpful?</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie Nr 19 - Homo Informaticus - racjonalnie nieracjonalni]]></title>
-    <link href="http://sckrk.github.com/blog/2012/03/26/spotkanie-nr-19-homo-informaticus-racjonalnie-nieracjonalni/"/>
-    <updated>2012-03-26T21:34:00+02:00</updated>
-    <id>http://sckrk.github.com/blog/2012/03/26/spotkanie-nr-19-homo-informaticus-racjonalnie-nieracjonalni</id>
-    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>04.04.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
-
-<p>Tym razem zaczniemy spotkanie od prezentacji Pawła Badeńskiego, która spotkała się z bardzo pozytywnym przyjęciem na ostatnim <a href="http://www.java.pl/?p=216">JavaCamp</a>: "Homo Informaticus - racjonalnie nieracjonalni".</p>
-
-<p>Chętnych zapraszamy także do zapoznania się z <a href="http://www.infoq.com/interviews/rising-on-placebos">wywiadem z Lindą Rising</a>.</p>
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: code-retreat | [sckrk]]]></title>
   <link href="http://sckrk.github.com/blog/categories/code-retreat/atom.xml" rel="self"/>
   <link href="http://sckrk.github.com/"/>
-  <updated>2012-06-06T20:54:46+02:00</updated>
+  <updated>2012-07-03T21:10:21+02:00</updated>
   <id>http://sckrk.github.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Legacy Code Retreat]]></title>
+    <link href="http://sckrk.github.com/blog/2012/06/26/legacy-code-retreat/"/>
+    <updated>2012-06-26T09:59:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/06/26/legacy-code-retreat</id>
+    <content type="html"><![CDATA[<p>W sobotę 14.07, w biurze ABB przy ul. Starowiślnej, odbędzie się pierwsze w Krakowie <a href="http://whatis.legacycoderetreat.com/">Legacy Code Retreat</a> organizowane przez SCKRK.</p>
+
+<p>Rejestracja rozpocznie się w najbliższy poniedziałek 02.07 o godzinie 19:00. Link do rejestracji znajdziecie na stronie <a href="http://coderetreat.sckrk.com">Code Retreat</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Global Day of Code Retreat]]></title>
