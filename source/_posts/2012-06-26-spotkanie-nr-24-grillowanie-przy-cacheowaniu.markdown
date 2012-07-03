@@ -12,6 +12,10 @@ Tym razem **do przeczytania na spotkanie** jest tylko jeden artykuł:
 
 * [Algorithm for automatic cache invalidation][caching]
 
+UPDATE:
+
+Prognoza pogody mówi, że jutro nie będzie (bardzo;) padać, więc grill odbędzie się zgodnie z zapowiedzią. Nie zapomnijcie o czymś do siedzenia.
+
 [llp]: http://lunarlogicpolska.com/
 [mapka]: http://goo.gl/maps/xHDI
 [caching]: https://groups.google.com/forum/#!msg/memcached/OiScvRbGaU8/C1vny7DiGakJ
