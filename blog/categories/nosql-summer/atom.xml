@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: NoSQL-Summer | [sckrk]]]></title>
+  <link href="http://sckrk.github.com/blog/categories/nosql-summer/atom.xml" rel="self"/>
+  <link href="http://sckrk.github.com/"/>
+  <updated>2012-07-12T22:28:39+02:00</updated>
+  <id>http://sckrk.github.com/</id>
+  <author>
+    <name><![CDATA[Adam Pohorecki]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[NoSQL Summer - Spotkanie Nr 1 - CAP 12 Years Later]]></title>
+    <link href="http://sckrk.github.com/blog/2012/07/12/nosql-summer-spotkanie-nr-1-cap-12-years-later/"/>
+    <updated>2012-07-12T22:17:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/07/12/nosql-summer-spotkanie-nr-1-cap-12-years-later</id>
+    <content type="html"><![CDATA[<p>Zgodnie z tradycją, w lecie w ramach SCKRK omawiamy tematy związane z NoSQL i nierelacyjnymi, rozproszonymi bazami danych.</p>
+
+<p>Zapraszamy wszystkich na pierwsze w tym roku spotkanie NoSQL Summer, które odbędzie się dnia <strong>18.07.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
+
+<p>Tym razem <strong>do przeczytania na spotkanie</strong> jest artykuł profesora Erica Brewera, twórcy <a href="http://en.wikipedia.org/wiki/CAP_theorem">Teorii CAP</a>:</p>
+
+<ul>
+<li><a href="http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed">CAP Twelve Years Later: How the "Rules" Have Changed</a></li>
+</ul>
+
+
+<p>Dla zainteresowanych polecamy także materiały dodatkowe:</p>
+
+<ul>
+<li><a href="http://nosqlsummer.org/paper/base-vs-acid">BASE: an ACID alternative</a></li>
+<li><a href="http://codahale.com/you-cant-sacrifice-partition-tolerance/">You Can’t Sacrifice Partition Tolerance</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Spotkania | [sckrk]]]></title>
   <link href="http://sckrk.github.com/blog/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://sckrk.github.com/"/>
-  <updated>2012-07-03T21:10:21+02:00</updated>
+  <updated>2012-07-12T22:28:39+02:00</updated>
   <id>http://sckrk.github.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[NoSQL Summer - Spotkanie Nr 1 - CAP 12 Years Later]]></title>
+    <link href="http://sckrk.github.com/blog/2012/07/12/nosql-summer-spotkanie-nr-1-cap-12-years-later/"/>
+    <updated>2012-07-12T22:17:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/07/12/nosql-summer-spotkanie-nr-1-cap-12-years-later</id>
+    <content type="html"><![CDATA[<p>Zgodnie z tradycją, w lecie w ramach SCKRK omawiamy tematy związane z NoSQL i nierelacyjnymi, rozproszonymi bazami danych.</p>
+
+<p>Zapraszamy wszystkich na pierwsze w tym roku spotkanie NoSQL Summer, które odbędzie się dnia <strong>18.07.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
+
+<p>Tym razem <strong>do przeczytania na spotkanie</strong> jest artykuł profesora Erica Brewera, twórcy <a href="http://en.wikipedia.org/wiki/CAP_theorem">Teorii CAP</a>:</p>
+
+<ul>
+<li><a href="http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed">CAP Twelve Years Later: How the "Rules" Have Changed</a></li>
+</ul>
+
+
+<p>Dla zainteresowanych polecamy także materiały dodatkowe:</p>
+
+<ul>
+<li><a href="http://nosqlsummer.org/paper/base-vs-acid">BASE: an ACID alternative</a></li>
+<li><a href="http://codahale.com/you-cant-sacrifice-partition-tolerance/">You Can’t Sacrifice Partition Tolerance</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie Nr 24 - Grillowanie przy Cacheowaniu]]></title>
@@ -95,28 +121,6 @@
 <ul>
 <li><a href="http://www.markhneedham.com/blog/2009/10/28/coding-connascence-some-examples/">Coding: Connascence – Some examples</a></li>
 <li><a href="http://reborg.tumblr.com/post/82362851/clean-code-cheat-sheet">Clean Code Cheat Sheet</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie Nr 20 - How Much Can IDE Predict?]]></title>
-    <link href="http://sckrk.github.com/blog/2012/04/12/spotkanie-nr-20-how-much-can-ide-predict/"/>
-    <updated>2012-04-12T23:17:00+02:00</updated>
-    <id>http://sckrk.github.com/blog/2012/04/12/spotkanie-nr-20-how-much-can-ide-predict</id>
-    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>18.04.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
-
-<p>Artykułem do przeczytania na spotkanie jest <a href="http://code-recommenders.blogspot.com/2010/08/eclipse-and-academia-briding-gap.html">"IDE 2.0: Collective Intelligence in Software Development"</a>.</p>
-
-<p>Chętnych zapraszamy także do zapoznania się z ciekawą, choć luźno związaną z tematem <a href="http://vimeo.com/36579366">prezentacją Breta Victora "Inventing on Principle"</a>.</p>
-
-<p>Kilka dodatkowych linków:</p>
-
-<ul>
-<li><a href="http://code-recommenders.blogspot.com/2011/11/do-you-still-read-source-code-to-learn.html">Do you still read source code to learn how to use an API?</a></li>
-<li><a href="http://www.chris-granger.com/2012/04/12/light-table---a-new-ide-concept/">Light Table - a New IDE Concept</a></li>
-<li><a href="http://www.johndcook.com/blog/2010/08/24/overly-helpful-software/">Is helpful software really helpful?</a></li>
 </ul>
 
 ]]></content>
