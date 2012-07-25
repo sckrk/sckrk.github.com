@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Spotkania | [sckrk]]]></title>
   <link href="http://sckrk.github.com/blog/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://sckrk.github.com/"/>
-  <updated>2012-07-12T22:28:39+02:00</updated>
+  <updated>2012-07-25T22:16:29+02:00</updated>
   <id>http://sckrk.github.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[NoSQL Summer - Spotkanie Nr 2 - Paxos Made Simple]]></title>
+    <link href="http://sckrk.github.com/blog/2012/07/25/nosql-summer-spotkanie-nr-2-paxos-made-simple/"/>
+    <updated>2012-07-25T22:04:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/07/25/nosql-summer-spotkanie-nr-2-paxos-made-simple</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie z cyklu NoSQL Summer, które odbędzie się dnia <strong>01.08.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
+
+<p>Tym razem <strong>do przeczytania na spotkanie</strong> jest artykuł <a href="http://nosqlsummer.org/paper/paxos-made-simple">Paxos Made Simple</a>.</p>
+
+<p>Jako lekturę dla zainteresowanych, polecamy także <a href="http://www.eecs.harvard.edu/cs262/Readings/paxosmadelive.pdf">Paxos Made Live</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[NoSQL Summer - Spotkanie Nr 1 - CAP 12 Years Later]]></title>
@@ -96,31 +109,6 @@
 
 <ul>
 <li><a href="http://yinsochen.com/thread-safe-and-or-lockless-data-structures/">Thread-Safe/Lockless Data Structures</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie Nr 21 - The Grand Unified Theory of Software Design]]></title>
-    <link href="http://sckrk.github.com/blog/2012/04/26/spotkanie-nr-21-the-grand-unified-theory-dot-dot-dot/"/>
-    <updated>2012-04-26T18:09:00+02:00</updated>
-    <id>http://sckrk.github.com/blog/2012/04/26/spotkanie-nr-21-the-grand-unified-theory-dot-dot-dot</id>
-    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>09.05.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
-
-<p>Tym razem <strong>do obejrzenia na spotkanie</strong> jest prezentacja Jima Weinrich'a pod tytułem "The Grand Unified Theory of Software Design"</p>
-
-<ul>
-<li><a href="http://aac2009.confreaks.com/06-feb-2009-11-00-the-grand-unified-theory-jim-weirich.html">wideo</a></li>
-<li><a href="http://www.slideshare.net/LittleBIGRuby/the-building-blocks-of-modularity">slajdy</a></li>
-</ul>
-
-
-<p>Dla zainteresowanych polecamy także materiały dodatkowe:</p>
-
-<ul>
-<li><a href="http://www.markhneedham.com/blog/2009/10/28/coding-connascence-some-examples/">Coding: Connascence – Some examples</a></li>
-<li><a href="http://reborg.tumblr.com/post/82362851/clean-code-cheat-sheet">Clean Code Cheat Sheet</a></li>
 </ul>
 
 ]]></content>

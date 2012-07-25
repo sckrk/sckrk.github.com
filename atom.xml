@@ -4,7 +4,7 @@
   <title><![CDATA[[sckrk]]]></title>
   <link href="http://sckrk.github.com/atom.xml" rel="self"/>
   <link href="http://sckrk.github.com/"/>
-  <updated>2012-07-12T22:28:39+02:00</updated>
+  <updated>2012-07-25T22:16:29+02:00</updated>
   <id>http://sckrk.github.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[NoSQL Summer - Spotkanie Nr 2 - Paxos Made Simple]]></title>
+    <link href="http://sckrk.github.com/blog/2012/07/25/nosql-summer-spotkanie-nr-2-paxos-made-simple/"/>
+    <updated>2012-07-25T22:04:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/07/25/nosql-summer-spotkanie-nr-2-paxos-made-simple</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie z cyklu NoSQL Summer, które odbędzie się dnia <strong>01.08.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
+
+<p>Tym razem <strong>do przeczytania na spotkanie</strong> jest artykuł <a href="http://nosqlsummer.org/paper/paxos-made-simple">Paxos Made Simple</a>.</p>
+
+<p>Jako lekturę dla zainteresowanych, polecamy także <a href="http://www.eecs.harvard.edu/cs262/Readings/paxosmadelive.pdf">Paxos Made Live</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[NoSQL Summer - Spotkanie Nr 1 - CAP 12 Years Later]]></title>
@@ -412,24 +425,6 @@ Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http:/
 Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
 
 <p><strong>Do przeczytania na spotkanie</strong> jest <a href="https://spreadsheets.google.com/viewanalytics?formkey=dE5kZVJkTEU4cFlzUnE2NDNyRVgzS2c6MQ">wybrany przez Was</a> artykuł autorstwa Johna Backus&#8217;a <a href="http://www.stanford.edu/class/cs242/readings/backus.pdf">&#8220;Can Programming Be Liberated from the von Neumann Style?&#8221;</a> (pdf).</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Strona, strona i po stronie]]></title>
-    <link href="http://sckrk.github.com/blog/2011/10/16/strona-strona-i-po-stronie/"/>
-    <updated>2011-10-16T18:16:00+02:00</updated>
-    <id>http://sckrk.github.com/blog/2011/10/16/strona-strona-i-po-stronie</id>
-    <content type="html"><![CDATA[<p>Jak pewnie zauważyliście, strona SCKRK zmieniła layout, tracąc przy okazji całą dotychczasową zawartość.
-Może kogoś z Was to zdziwiło, dlatego śpieszymy z wyjaśnieniem: serwer <a href="http://rootnode.net/">RootNode</a>, na którym było hostowane <a href="http://sckrk.com/">sckrk.com</a> uległ awarii, a my pozostaliśmy bez kopii zapasowej strony.</p>
-
-<p>Od dzisiaj nasza strona będzie hostowana przy wykorzystaniu <a href="http://pages.github.com/">GitHub Pages</a> i silnika <a href="http://octopress.org/">Octopress</a>.</p>
-
-<p>Dzięki temu, że cała treść nowej strony znajduje się w rozproszonym systemie kontroli wersji Git, będziemy mogli od teraz spać spokojnie, bez obaw o utratę większej ilości danych.</p>
-
-<p>W ciągu najbliższych dni postaramy się przywrócić jak najwięcej ze starej zawartości strony, a tymczasem zamieszczamy tylko najistotniejsze informacje.</p>
-
-<p>Dziękujemy za wyrozumiałość:)</p>
 ]]></content>
   </entry>
   
