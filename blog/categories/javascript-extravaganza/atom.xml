@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: JavaScript-Extravaganza | [sckrk]]]></title>
+  <link href="http://sckrk.github.com/blog/categories/javascript-extravaganza/atom.xml" rel="self"/>
+  <link href="http://sckrk.github.com/"/>
+  <updated>2012-08-17T14:35:59+02:00</updated>
+  <id>http://sckrk.github.com/</id>
+  <author>
+    <name><![CDATA[Adam Pohorecki]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[JavaScript Extravaganza]]></title>
+    <link href="http://sckrk.github.com/blog/2012/08/17/javascript-extravaganza/"/>
+    <updated>2012-08-17T14:27:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/08/17/javascript-extravaganza</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na pierwsze spotkanie z cyklu JavaScript Extrvaaganza.
+Spotykamy się w czwartek, 23 sierpnia w siedzibie firmy przy ulicy <a href="http://goo.gl/maps/pS5vT">Lubicz 23A, 4 pietro</a> o godzinie 18.00.
+Firma <a href="http://www.lumesse.com/">Lumesse</a> tym razem sponsoruje pizze.</p>
+
+<p>Celem spotkania jest praca w szerszym gronie nad interpreterem JavaScript'u, napisanego w Javie.
+Projekt <a href="https://bitbucket.org/kcrimson/newjs">rozwija się na BitBucket</a>.
+W ramach tego projektu implementowana jest specyfikacja ECMAScript 262 "strict mode".</p>
+
+<p>W czasie wieczornego kodowania będzie okazja zapoznać się z parserami LL(*) (ANTLR) oraz z kilkoma wzorcami przydatnymi przy tworzeniu DSL (Domain Specific Languages), opisanymi w książce <a href="http://pragprog.com/book/tpdsl/language-implementation-patterns">"Language Implementation Patterns" Terrenc'a Parr</a>.
+Sesja będzie poprowadzona w stylu BYOL (Bring Your Own Laptop).</p>
+]]></content>
+  </entry>
+  
+</feed>
