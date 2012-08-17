@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Spotkania | [sckrk]]]></title>
   <link href="http://sckrk.github.com/blog/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://sckrk.github.com/"/>
-  <updated>2012-07-25T22:16:29+02:00</updated>
+  <updated>2012-08-17T11:02:29+02:00</updated>
   <id>http://sckrk.github.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[NoSQL Summer - Spotkanie Nr 3 - Amazon Dynamo]]></title>
+    <link href="http://sckrk.github.com/blog/2012/08/17/nosql-summer-spotkanie-nr-3-amazon-dynamo/"/>
+    <updated>2012-08-17T10:25:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/08/17/nosql-summer-spotkanie-nr-3-amazon-dynamo</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie z cyklu NoSQL Summer, które odbędzie się dnia <strong>22.08.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
+
+<p>Tym razem <strong>do przeczytania na spotkanie</strong> jest artykuł <a href="http://nosqlsummer.org/paper/amazon-dynamo">Dynamo: Amazon’s Highly Available Key-value Store </a>.</p>
+
+<p>Dla zainteresowanych systemami opartymi na Dynamo, polecamy zapoznanie się z:</p>
+
+<ul>
+<li><a href="http://wiki.basho.com/">Riak</a></li>
+<li><a href="http://project-voldemort.com/">Voldemort</a></li>
+<li><a href="http://cassandra.apache.org/">Cassandra</a></li>
+<li><a href="http://bigcouch.cloudant.com/">BigCouch</a></li>
+</ul>
+
+
+<p>Dla chcących lepiej zrozumieć zegary wektorowe:</p>
+
+<ul>
+<li><a href="http://basho.com/blog/technical/2010/01/29/why-vector-clocks-are-easy/">Why Vector Clocks are Easy</a></li>
+<li><a href="http://basho.com/blog/technical/2010/04/05/why-vector-clocks-are-hard/">Why Vector Clocks are Hard</a></li>
+</ul>
+
+
+<p>Więcej teorii:</p>
+
+<ul>
+<li><a href="http://www.allthingsdistributed.com/2008/12/eventually_consistent.html">Eventually Consistent</a></li>
+<li><a href="http://nosqlsummer.org/paper/base-vs-acid">BASE: An ACID Alternative</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[NoSQL Summer - Spotkanie Nr 2 - Paxos Made Simple]]></title>
@@ -91,24 +128,6 @@
 
 <ul>
 <li><a href="http://www.infoq.com/presentations/integration-tests-scam">InfoQ: Integration Tetsts are a Scam</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie Nr 22 - Lock-free Algorithms]]></title>
-    <link href="http://sckrk.github.com/blog/2012/05/16/spotkanie-nr-22-lock-free-algorithms/"/>
-    <updated>2012-05-16T09:18:00+02:00</updated>
-    <id>http://sckrk.github.com/blog/2012/05/16/spotkanie-nr-22-lock-free-algorithms</id>
-    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>23.05.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
-
-<p>Tym razem <strong>do obejrzenia na spotkanie</strong> jest prezentacja <a href="http://www.infoq.com/presentations/Lock-free-Algorithms">"Lock-free Algorithms"</a>.</p>
-
-<p>Zainteresowani na poniższej stronie znajdą wiele linków związanych z tematem:</p>
-
-<ul>
-<li><a href="http://yinsochen.com/thread-safe-and-or-lockless-data-structures/">Thread-Safe/Lockless Data Structures</a></li>
 </ul>
 
 ]]></content>
