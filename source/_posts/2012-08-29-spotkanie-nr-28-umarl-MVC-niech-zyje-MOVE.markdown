@@ -20,6 +20,8 @@ Zachęcamy do szukania oraz podsyłania kolejnych materiałów.
 
 [llp]: http://lunarlogicpolska.com/
 [llp_mapka]: http://g.co/maps/2x44j
+
 [move]: http://cirw.in/blog/time-to-move-on
 [rails]: http://andrzejonsoftware.blogspot.com/2011/09/rails-is-not-mvc.html
 [mvp_mvc]: http://blog.vuscode.com/malovicn/archive/2007/12/18/model-view-presenter-mvp-vs-model-view-controller-mvc.aspx
+[state_machine]: http://ingoschramm.tumblr.com/post/26409997578/mvc-move-or-simply-a-state-machine
