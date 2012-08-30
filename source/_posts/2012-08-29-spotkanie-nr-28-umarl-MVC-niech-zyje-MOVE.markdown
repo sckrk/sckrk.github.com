@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Umarł MVC, niech żyje MOVE ?"
+title: "Spotkanie Nr 28 - Umarł MVC, niech żyje MOVE?"
 date: 2012-08-29 17:05
 comments: true
-categories: Ogłoszenia
+categories: Spotkania
 ---
 
-Zapraszam wszystkich na spotkanie SCKRK, które odbędzie się  **5.09.2012 o godzinie 19:00** [siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3][llp_mapka] (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez [LLP][llp].
+Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia **05.09.2012 o godzinie 19:00** w [siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3][llp_mapka] (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez [LLP][llp].
 
-Tym razem tematem dyskucji będzie wzorzec [MOVE][move].
+Tym razem tematem dyskusji będzie wzorzec [MOVE][move].
 
 Dodatkowo :
 
