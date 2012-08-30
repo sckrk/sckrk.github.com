@@ -4,7 +4,7 @@
   <title><![CDATA[[sckrk]]]></title>
   <link href="http://sckrk.github.com/atom.xml" rel="self"/>
   <link href="http://sckrk.github.com/"/>
-  <updated>2012-08-17T14:35:59+02:00</updated>
+  <updated>2012-08-30T11:57:21+02:00</updated>
   <id>http://sckrk.github.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 28 - Umarł MVC, niech żyje MOVE?]]></title>
+    <link href="http://sckrk.github.com/blog/2012/08/29/spotkanie-nr-28-umarl-MVC-niech-zyje-MOVE/"/>
+    <updated>2012-08-29T17:05:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/08/29/spotkanie-nr-28-umarl-MVC-niech-zyje-MOVE</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>05.09.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
+
+<p>Tym razem tematem dyskusji będzie wzorzec <a href="http://cirw.in/blog/time-to-move-on">MOVE</a>.</p>
+
+<p>Dodatkowo :</p>
+
+<ul>
+<li><a href="http://andrzejonsoftware.blogspot.com/2011/09/rails-is-not-mvc.html">Rails is not MVC</a></li>
+<li>[MVC, MOVE - Or Simply A State Machine?][state_machine]</li>
+<li><a href="http://blog.vuscode.com/malovicn/archive/2007/12/18/model-view-presenter-mvp-vs-model-view-controller-mvc.aspx">MVP vs MVC</a></li>
+</ul>
+
+
+<p>Zachęcamy do szukania oraz podsyłania kolejnych materiałów.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JavaScript Extravaganza]]></title>
@@ -446,18 +468,6 @@ Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http:/
 
 
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie Nr 13 - A Laboratory for Teaching Object-Oriented Thinking]]></title>
-    <link href="http://sckrk.github.com/blog/2011/12/07/spotkanie-nr-13-a-laboratory-for-teaching-object-oriented-thinking/"/>
-    <updated>2011-12-07T21:44:00+01:00</updated>
-    <id>http://sckrk.github.com/blog/2011/12/07/spotkanie-nr-13-a-laboratory-for-teaching-object-oriented-thinking</id>
-    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>14.12.2011 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy Warszauera 10 na Kazimierzu.
-Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
-
-<p><strong>Do przeczytania na spotkanie</strong> jest kolejny artykuł z cyklu <a href="http://blog.objectmentor.com/articles/2009/02/26/10-papers-every-programmer-should-read-at-least-twice">dziesięciu, które każdy programista przeczytać powinien (co najmniej dwa razy)</a>: <a href="http://sckrk.github.com/downloads/lab_for_teaching_oo.pdf">A Laboratory for Teaching Object-Oriented Thinking</a> autorstwa <a href="http://en.wikipedia.org/wiki/Kent_Beck">Kenta Becka</a> (pdf).</p>
 ]]></content>
   </entry>
   

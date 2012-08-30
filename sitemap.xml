@@ -122,14 +122,20 @@
     </url>
     <url>
         <loc>http://sckrk.github.com/blog/2012/08/17/javascript-extravaganza/</loc>
-        <lastmod>2012-08-17T14:35:59+02:00</lastmod>
+        <lastmod>2012-08-17T14:38:09+02:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://sckrk.github.com/blog/2012/08/29/spotkanie-nr-28-umarl-MVC-niech-zyje-MOVE/
+        </loc>
+        <lastmod>2012-08-30T11:56:26+02:00</lastmod>
     </url>
     <url>
         <loc>http://sckrk.github.com/</loc>
-        <lastmod>2012-08-17T14:35:59+02:00</lastmod>
+        <lastmod>2012-08-30T11:56:26+02:00</lastmod>
     </url>
     <url>
         <loc>http://sckrk.github.com/blog/archives/</loc>
-        <lastmod>2012-08-17T14:35:59+02:00</lastmod>
+        <lastmod>2012-08-30T11:56:26+02:00</lastmod>
     </url>
 </urlset>

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Spotkania | [sckrk]]]></title>
   <link href="http://sckrk.github.com/blog/categories/spotkania/atom.xml" rel="self"/>
   <link href="http://sckrk.github.com/"/>
-  <updated>2012-08-17T14:35:59+02:00</updated>
+  <updated>2012-08-30T11:57:21+02:00</updated>
   <id>http://sckrk.github.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 28 - Umarł MVC, niech żyje MOVE?]]></title>
+    <link href="http://sckrk.github.com/blog/2012/08/29/spotkanie-nr-28-umarl-MVC-niech-zyje-MOVE/"/>
+    <updated>2012-08-29T17:05:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/08/29/spotkanie-nr-28-umarl-MVC-niech-zyje-MOVE</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>05.09.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
+
+<p>Tym razem tematem dyskusji będzie wzorzec <a href="http://cirw.in/blog/time-to-move-on">MOVE</a>.</p>
+
+<p>Dodatkowo :</p>
+
+<ul>
+<li><a href="http://andrzejonsoftware.blogspot.com/2011/09/rails-is-not-mvc.html">Rails is not MVC</a></li>
+<li>[MVC, MOVE - Or Simply A State Machine?][state_machine]</li>
+<li><a href="http://blog.vuscode.com/malovicn/archive/2007/12/18/model-view-presenter-mvp-vs-model-view-controller-mvc.aspx">MVP vs MVC</a></li>
+</ul>
+
+
+<p>Zachęcamy do szukania oraz podsyłania kolejnych materiałów.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JavaScript Extravaganza]]></title>
@@ -104,26 +126,6 @@ Sesja będzie poprowadzona w stylu BYOL (Bring Your Own Laptop).</p>
 <li><a href="http://codahale.com/you-cant-sacrifice-partition-tolerance/">You Can’t Sacrifice Partition Tolerance</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie Nr 24 - Grillowanie przy Cacheowaniu]]></title>
-    <link href="http://sckrk.github.com/blog/2012/06/26/spotkanie-nr-24-grillowanie-przy-cacheowaniu/"/>
-    <updated>2012-06-26T09:08:00+02:00</updated>
-    <id>http://sckrk.github.com/blog/2012/06/26/spotkanie-nr-24-grillowanie-przy-cacheowaniu</id>
-    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>04.07.2012 o godzinie 19:00</strong>, tym razem nietypowo, bo przy grillu <a href="http://goo.gl/maps/xHDI">na Miasteczku Studenckim AGH, pomiędzy "jamnikami"</a>. Jedzenie i piwo będzie sponsorowane przez <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>. Osoby dysponujące grillami, których moglibyśmy użyć są proszone o kontakt ze mną na maila: adam[at]pohorecki.pl.</p>
-
-<p>Tym razem <strong>do przeczytania na spotkanie</strong> jest tylko jeden artykuł:</p>
-
-<ul>
-<li><a href="https://groups.google.com/forum/#!msg/memcached/OiScvRbGaU8/C1vny7DiGakJ">Algorithm for automatic cache invalidation</a></li>
-</ul>
-
-
-<p>UPDATE:</p>
-
-<p>Prognoza pogody mówi, że jutro nie będzie (bardzo;) padać, więc grill odbędzie się zgodnie z zapowiedzią. Nie zapomnijcie o czymś do siedzenia.</p>
 ]]></content>
   </entry>
   
