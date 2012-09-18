@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Spotkanie nr 29 - Wyrażenia regularne"
+title: "Spotkanie Nr 29 - Wyrażenia regularne"
 date: 2012-09-16 14:51
 comments: true
 categories: Spotkania
 ---
 
-Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia **19.09.2012 o godzinie 19:00** w [siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3][llp_mapka] (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez [LLP][llp].
+Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia **26.09.2012 o godzinie 19:00** w [siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3][llp_mapka] (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez [LLP][llp].
 
 Na spotkanie należy przeczytać atrykuły :
 
