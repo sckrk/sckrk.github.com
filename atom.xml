@@ -4,7 +4,7 @@
   <title><![CDATA[[sckrk]]]></title>
   <link href="http://sckrk.github.com/atom.xml" rel="self"/>
   <link href="http://sckrk.github.com/"/>
-  <updated>2012-09-18T09:33:43+02:00</updated>
+  <updated>2012-09-28T11:23:57+02:00</updated>
   <id>http://sckrk.github.com/</id>
   <author>
     <name><![CDATA[Adam Pohorecki]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie Nr 30 - Organizing Programs Without Classes]]></title>
+    <link href="http://sckrk.github.com/blog/2012/09/28/spotkanie-nr-30-organizing-programs-without-classes/"/>
+    <updated>2012-09-28T11:21:00+02:00</updated>
+    <id>http://sckrk.github.com/blog/2012/09/28/spotkanie-nr-30-organizing-programs-without-classes</id>
+    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>10.10.2012 o godzinie 19:00</strong> w <a href="http://g.co/maps/2x44j">siedzibie firmy Lunar Logic Polska przy alei Krasińskiego 17/3</a> (na przeciwko kina Kijów) przy piwie, tradycyjnie już sponsorowanym przez <a href="http://lunarlogicpolska.com/">LLP</a>.</p>
+
+<p>Na spotkanie należy przeczytać atrykuł :</p>
+
+<ul>
+<li><a href="http://cs.au.dk/~hosc/local/LaSC-4-3-pp223-242.pdf">Organizing Programs Without Classes (PDF)</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie Nr 29 - Wyrażenia regularne]]></title>
@@ -446,18 +462,6 @@ Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http:/
 <li><a href="http://blog.jaoo.dk/2009/03/04/handling-architecture-in-the-agile-world/">Handling architecture in the agile world</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie Nr 15 - The Next 700 Programming Languages]]></title>
-    <link href="http://sckrk.github.com/blog/2012/01/09/spotkanie-nr-15-the-next-700-programming-languages/"/>
-    <updated>2012-01-09T14:44:00+01:00</updated>
-    <id>http://sckrk.github.com/blog/2012/01/09/spotkanie-nr-15-the-next-700-programming-languages</id>
-    <content type="html"><![CDATA[<p>Zapraszamy wszystkich na kolejne spotkanie SCKRK, które odbędzie się dnia <strong>18.01.2012 o godzinie 19:00</strong> w <a href="http://beergallery.pl/">Beer Gallery Pub</a> przy ulicy <strong>Dominikańskiej</strong> 10, niedaleko Placu Wszystkich Świętych.
-Tradycyjnie, na spotkaniu piwo będzie sponsorowane przez firmę <a href="http://lunarlogicpolska.com/">Lunar Logic Polska</a>.</p>
-
-<p><strong>Do przeczytania na spotkanie</strong> jest kolejny artykuł z cyklu <a href="http://blog.objectmentor.com/articles/2009/02/26/10-papers-every-programmer-should-read-at-least-twice">dziesięciu, które każdy programista przeczytać powinien (co najmniej dwa razy)</a>: <a href="http://www.thecorememory.com/Next_700.pdf">The Next 700 Programming Languages</a> autorstwa <a href="http://en.wikipedia.org/wiki/Peter_Landin">Petera Landina</a> (pdf).</p>
 ]]></content>
   </entry>
   
